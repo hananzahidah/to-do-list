@@ -6,7 +6,7 @@ function ListItem() {
         <li className="flex justify-between items-center bg-red-50 p-2 rounded-lg">
           <div className="flex gap-2 items-center">
               <input type="checkbox"/>
-              <p className="text-black">task 1 task 1 task 1 task 1 task 1</p>
+              <p className="text-black">task 1 task 1 task 1 task 1</p>
           </div>
           <div>
           <svg xmlns="http://www.w3.org/2000/svg" className=" cursor-pointer hover:text-gray-600 h-6 w-6 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -20,7 +20,7 @@ function ListItem() {
         <li className="flex justify-between items-center bg-red-50 p-2 rounded-lg">
           <div className="flex gap-2 items-center">
               <input type="checkbox"/>
-              <p className="text-black">task 2 task 2 task 2 task 2 task 2</p>
+              <p className="text-black">task 2 task 2 task 2 task 2</p>
           </div>
           <div>
           <svg xmlns="http://www.w3.org/2000/svg" className=" cursor-pointer hover:text-gray-600 h-6 w-6 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -34,7 +34,7 @@ function ListItem() {
         <li className="flex justify-between items-center bg-red-50 p-2 rounded-lg">
           <div className="flex gap-2 items-center">
               <input type="checkbox"/>
-              <p className="text-black">task 3 task 3 task 3 task 3 task 3</p>
+              <p className="text-black">task 3 task 3 task 3 task 3</p>
           </div>
           <div>
           <svg xmlns="http://www.w3.org/2000/svg" className=" cursor-pointer hover:text-gray-600 h-6 w-6 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -48,7 +48,7 @@ function ListItem() {
         <li className="flex justify-between items-center bg-red-50 p-2 rounded-lg">
           <div className="flex gap-2 items-center">
               <input type="checkbox"/>
-              <p className="text-black">task 4 task 4 task 4 task 4 task 4</p>
+              <p className="text-black">task 4 task 4 task 4 task 4</p>
           </div>
           <div>
           <svg xmlns="http://www.w3.org/2000/svg" className=" cursor-pointer hover:text-gray-600 h-6 w-6 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
